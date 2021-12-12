@@ -11,7 +11,7 @@ ingredients:
 - 2 tbsp milk/cream (approx)
 - 4 oz. cheese - pecorino romano or parmigiano reggiano
 - black pepper to taste (a lot)
-- .5 lb guanciale or pancetta or bacon
+- 1/2 lb guanciale or pancetta or bacon
 - 1 zucchini 
 - 5 cloves of garlic
 - sage
@@ -19,7 +19,7 @@ ingredients:
 - penne pasta
 
 directions:
-- cut meat into .5 in chunks
+- cut meat into 1/2 in chunks
 - deseed zucchini and cut into chunks about the size of the pasta
 - mince or press garlic
 - start boiling water for pasta, add salt
