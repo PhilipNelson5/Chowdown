@@ -17,6 +17,10 @@ directions:
 - cook sugar, karo syrup, 1 cup cream until boiling
 - add rest of cream slowly
 - cook until softball (240° F)
+- take off heat
+- add vanilla
+- pour on to baking sheet to cool
+- cut and wrap in wax paper
 
 components:
 
