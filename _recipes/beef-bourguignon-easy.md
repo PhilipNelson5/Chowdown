@@ -47,4 +47,4 @@ directions:
 components:
 
 ---
-An easy version of beef bourguignon, a beef stew like dish https//www.youtube.com/watch?v=p53xab3c3tg
+An easy version of beef bourguignon, a beef stew like dish www.youtube.com/watch?v=p53xab3c3tg
