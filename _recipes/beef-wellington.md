@@ -17,6 +17,7 @@ ingredients:
 - prosciutto or ham
 - 1 egg
 - 1 cup heavy cream or whole milk
+- 1 package of puff pastry
 
 directions:
 - trim fat and silver skin, leave fat cap on top
