@@ -15,6 +15,7 @@ ingredients:
 - 2 beef stock cubes
 - 4 large carrots
 - 3 stalks of celery
+- 1 bag of frozen pearl onions
 - 5 cloves of garlic
 - 2 packets of unflavored gelatin
 - 4 Tbsp balsamic vinegar
