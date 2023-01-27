@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Cheesecake - Sous Vide 
-image: cheesecake---sous-vide.jpg
+image: cheesecake-sous-vide.jpg
 tags: dessert
 recipeYield: 9
 
