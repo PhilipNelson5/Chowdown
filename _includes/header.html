@@ -1,37 +1,23 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<!-- Top Navigation Menu -->
-<div class="topnav">
-  <a href="{{ site.baseurl }}/" class="active">
-    {% include chowdown-logo-white.svg %}
-    Home
-  </a>
-  <!-- Navigation links (hidden by default) -->
-  <div id="myLinks">
-    <a href="{{ site.baseurl }}/search">
-      {% include search.svg %}
-      Search
-    </a>
-    <a href="{{ site.baseurl }}/tags">
-      {% include tag.svg %}
-      Tags
-    </a>
-    <a href="{{ site.baseurl }}/components">
-      {% include component.svg %}
-      Components
-    </a>
-    <a href="{{ site.baseurl }}/new_component">
-      {% include plus.svg %}
-      New Component
-    </a>
-    <a href="{{ site.baseurl }}/new">
-      {% include plus.svg %}
-      New Recipe
-    </a>
+<nav role="navigation">
+  <div id="menuToggle">
+    <!-- A hidden checkbox is used as click reciever,
+    so you can use the :checked selector on it. -->
+    <input type="checkbox">
+    
+    <!-- Some spans to act as a hamburger -->
+    <span></span>
+    <span></span>
+    <span></span>
+    
+    <ul id="menu">
+      <a href="{{ site.baseurl }}/"><li><i class="fa fa-home fa-lg"></i> Home</li></a>
+      <a href="{{ site.baseurl }}/search"><li><i class="fa fa-search fa-lg"></i> Search</li></a>
+      <a href="{{ site.baseurl }}/tags"><li><i class="fa fa-tags fa-lg"></i> Tags</li></a>
+      <a href="{{ site.baseurl }}/components"><li><i class="fa fa-puzzle-piece fa-lg"></i> Components</li></a>
+      <a href="{{ site.baseurl }}/new_component"><li><i class="fa fa-plus fa-lg"></i> New Component</li></a>
+      <a href="{{ site.baseurl }}/new"><li><i class="fa fa-plus fa-lg"></i> New Recipe</li></a>
+    </ul>
   </div>
-
-  <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
-  <a href="javascript:void(0);" class="icon" onclick="toggleNavBar()">
-    <i class="fa fa-bars"></i>
-  </a>
-</div>
+</nav>
