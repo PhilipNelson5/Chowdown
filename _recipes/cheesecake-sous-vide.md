@@ -4,7 +4,7 @@ layout: recipe
 title: Cheesecake - Sous Vide 
 image: cheesecake-sous-vide.jpg
 tags: dessert
-recipeYield: 9
+recipeYield: 10
 
 ingredients:
 - 16 oz cream cheese
