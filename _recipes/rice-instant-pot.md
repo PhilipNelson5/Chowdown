@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Rice - Instant Pot
-image: rice---instant-pot.jpg
+image: rice-instant-pot.jpg
 tags: 
 recipeYield: 
 
