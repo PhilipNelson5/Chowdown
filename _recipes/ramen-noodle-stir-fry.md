@@ -18,6 +18,7 @@ ingredients:
 directions:
 - Cook ground beef until it is no longer pink
 - Pour off grease and add one packet of ramen noodle seasoning
+- Remove beef and set aside
 - In the same skillet, combine 2 cups of water, frozen vegetables, ginger and remaining seasoning packet
 - Bring to a boil and reduce heat
 - Simmer for 3 minutes or until noodles are tender
